@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebLibrary", "WebLibrary\WebLibrary.csproj", "{CB9056AB-2535-4DE4-B2C9-0B11830DA06E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{E47A08AA-61F4-47FC-BAE0-C5A233207685}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{6F98BCE2-BBEF-4CFE-B6CC-4BB4FF35E2A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB9056AB-2535-4DE4-B2C9-0B11830DA06E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB9056AB-2535-4DE4-B2C9-0B11830DA06E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB9056AB-2535-4DE4-B2C9-0B11830DA06E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB9056AB-2535-4DE4-B2C9-0B11830DA06E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E47A08AA-61F4-47FC-BAE0-C5A233207685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E47A08AA-61F4-47FC-BAE0-C5A233207685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E47A08AA-61F4-47FC-BAE0-C5A233207685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E47A08AA-61F4-47FC-BAE0-C5A233207685}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F98BCE2-BBEF-4CFE-B6CC-4BB4FF35E2A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F98BCE2-BBEF-4CFE-B6CC-4BB4FF35E2A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F98BCE2-BBEF-4CFE-B6CC-4BB4FF35E2A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F98BCE2-BBEF-4CFE-B6CC-4BB4FF35E2A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E69CAD76-B27F-464A-8601-76FCE7A4C3BD}
+	EndGlobalSection
+EndGlobal
